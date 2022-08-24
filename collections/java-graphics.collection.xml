@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Richard Baldwin">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11955</md:content-id>
     <md:title>Java Graphics</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>aeb45027-7652-4a83-ae95-b96ff45c4101</md:uuid>
-<md:slug>java-graphics</md:slug>
-</metadata>
+    <md:slug>java-graphics</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m59538"/>
     <col:module document="m59567"/>
